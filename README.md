@@ -11,3 +11,11 @@ Published
 
 Issues can be reported in this repository.
 
+
+## Game screenshots
+
+![main menu](https://github.com/theokunb/Lets-Draw-Game/blob/main/Promo/Screen3.PNG)
+![game shop](https://github.com/theokunb/Lets-Draw-Game/blob/main/Promo/Screen4.PNG)
+![secelting challenge](https://github.com/theokunb/Lets-Draw-Game/blob/main/Promo/Screen5.PNG)
+![drawing picture](https://github.com/theokunb/Lets-Draw-Game/blob/main/Promo/Screen2.PNG)
+![guesting picture](https://github.com/theokunb/Lets-Draw-Game/blob/main/Promo/Screen1.PNG)
